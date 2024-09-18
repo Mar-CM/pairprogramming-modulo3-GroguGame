@@ -25,7 +25,7 @@ Si logras recolectarlos antes que él, ¡serás el ganador! 😊
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone https://github.com/mloherr/promo-W-module-3-pair-4-grogu-game.git
+git clone https://github.com/Mar-CM/pairprogramming-modulo3-GroguGame.git
 ``` 
 
 ```bash
